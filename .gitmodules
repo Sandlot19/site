@@ -1,0 +1,24 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/dusk"]
+	path = themes/dusk
+	url = https://github.com/gyorb/hugo-dusk.git
+[submodule "themes/darksimplicity"]
+	path = themes/darksimplicity
+	url = https://github.com/kritoke/darksimplicity.git
+[submodule "themes/binario"]
+	path = themes/binario
+	url = https://github.com/Vimux/Binario.git
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "themes/niello"]
+	path = themes/niello
+	url = https://github.com/guangmean/Niello.git
+[submodule "edidor"]
+	path = edidor
+	url = https://github.com/jacobsun/edidor.git
+[submodule "themes/edidor"]
+	path = themes/edidor
+	url = https://github.com/jacobsun/edidor.git
