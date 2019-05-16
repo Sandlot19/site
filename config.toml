@@ -1,9 +1,10 @@
-baseurl = "https://example.com/"
+baseurl = "https://web.eecs.utk.edu/~jruthe10"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
 [params]
+  contentTypeName = "posts"
   themeColor = "blue"
   showMenuItems = 2
   fullWidthTheme = false
@@ -15,10 +16,12 @@ paginate = 5
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
+    menuMore = "Show More"
     readMore = "Read more"
+    readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Home"
+      logoText = "Jacob Rutherford"
       logoHomeLink = "/"
 
     [languages.en.menu]
